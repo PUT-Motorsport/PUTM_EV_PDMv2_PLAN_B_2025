@@ -215,6 +215,45 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5de703a-f980-4035-b105-38d9e429fb3a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297004.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "676b00d5-77c0-4148-9652-c6b722ced822")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297004.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "955c2ee1-5605-4b26-a32e-e6fa3cecd90e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/04c87717-6fcb-4723-88a0-14511653bdb0")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -228,7 +267,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "7054f021-46e4-4e0d-a452-50526d237887")
+			(uuid "30797a4d-3121-4030-8b74-f74d4a5a9304")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.23 5.68 0)
@@ -260,7 +299,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c60b1d80-3fba-49b2-bf0e-f00f0ebe09dd")
+			(uuid "80c4a723-2d49-4dfa-bf38-0f7836ca8b3b")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -270,7 +309,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "46230f56-ee8e-4fbf-8851-1d75532f8e18")
+			(uuid "80c4a723-2d49-4dfa-bf38-0f7836ca8b3b")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -290,7 +329,7 @@
 			(net 11 "CAR_FUSE9")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5e32b99b-eae3-4f07-b343-5547b43b687a")
+			(uuid "72be4cc1-155c-4c92-82fe-cd80b392db86")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -300,7 +339,7 @@
 			(remove_unused_layers no)
 			(net 11 "CAR_FUSE9")
 			(pintype "passive")
-			(uuid "a9f3c36c-3759-44ab-aaa6-923d5e94fc81")
+			(uuid "72be4cc1-155c-4c92-82fe-cd80b392db86")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -394,6 +433,58 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07378107-b016-4547-bced-1d8e8d084547")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "664ee3fb-b8b2-4c94-be6a-e11f941102b9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/anm-3a/bezpieczniki-samochodowe-mini/optifuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a23c3f8-1d84-415b-90d1-0d8873cd5bc9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/anm-3a/bezpieczniki-samochodowe-mini/optifuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92d2c64f-d20e-4d73-8503-5c2a8cedd83d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/88c6a63c-c38e-47e3-81f1-fd70465f850a")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -407,7 +498,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "d77fdf51-9857-4fbf-ac42-18869f32f0e6")
+			(uuid "325f0023-2330-4586-8496-7609411ed0d7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -14.475 0.47 0)
@@ -439,7 +530,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "34d4c2c7-f0c4-4ec7-bb8d-795fad3edad3")
+			(uuid "a7321312-db5f-4383-9b66-44da80880593")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -449,7 +540,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "cb484809-85c9-4664-a127-a0a28b844541")
+			(uuid "a7321312-db5f-4383-9b66-44da80880593")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -469,7 +560,7 @@
 			(net 16 "CAR_FUSE14")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5090c4df-5abc-4284-883b-e2dd10701e25")
+			(uuid "0769c14e-82d8-4518-8e9b-eaeaa7d04178")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -479,7 +570,7 @@
 			(remove_unused_layers no)
 			(net 16 "CAR_FUSE14")
 			(pintype "passive")
-			(uuid "b504cb9b-2882-4fe3-a8c9-4815d49a41ac")
+			(uuid "0769c14e-82d8-4518-8e9b-eaeaa7d04178")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -522,7 +613,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -574,6 +665,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9be3732e-7483-449f-ac2e-fb990e297970")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ba695c4-e94d-4e01-9e51-8259fdbc61f8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9b818a9-09b8-4575-b592-320ef29a6968")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8df81931-75a6-4e29-b8ba-5aa2810ec75a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdb1a2cf-98b5-4f2f-b1e9-1959441a9631")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/1bd88c95-ca50-4bb3-9ab6-24098ea6d2b5")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -587,7 +743,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "474e75ae-ee30-4f4a-b500-0e1dda8c1b73")
+			(uuid "8c79e253-c2f8-43cb-904e-a49704a8bbad")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.195 8.87 0)
@@ -619,7 +775,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "b809472d-65d7-4c47-a3de-428c6300e2be")
+			(uuid "27d1b1d4-a96f-419d-b36a-58eacb86755e")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -629,7 +785,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "4ecda547-4518-4458-b006-2855d492e7b3")
+			(uuid "27d1b1d4-a96f-419d-b36a-58eacb86755e")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -649,7 +805,7 @@
 			(net 14 "CAR_FUSE12")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ca45ea85-1c70-476c-9f2a-e11a501e7d87")
+			(uuid "ba9bd455-9650-46eb-bb4b-7f3bf47d5ec5")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -659,7 +815,7 @@
 			(remove_unused_layers no)
 			(net 14 "CAR_FUSE12")
 			(pintype "passive")
-			(uuid "130531da-5d1e-495b-bc21-f2ba89d9ae0a")
+			(uuid "ba9bd455-9650-46eb-bb4b-7f3bf47d5ec5")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -702,7 +858,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -754,6 +910,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0be23944-3404-4002-8690-1796e2835ec2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08730607-5575-420d-9d20-c3c47ec03985")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccdefecb-6aed-464a-be9f-4050d0a1283e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35fa3044-148a-49c7-8f17-6cceb8d5587e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "970da090-e460-42f1-8642-87e1eea5a12d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/10aa9c23-6181-4362-a08c-a34a740c1aaa")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -767,7 +988,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "1f4f444c-494e-4336-81cc-cd9ec6de0f06")
+			(uuid "04c4c454-191b-42a0-8550-3223475cb830")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -799,7 +1020,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "dda2780a-c869-41a5-a63c-d8cdae7f1ebe")
+			(uuid "ccf0c291-8058-4420-b676-56c5d79c82ba")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -809,7 +1030,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "07bce1d5-4eae-4cc5-a84a-6c7a46d6a03d")
+			(uuid "ccf0c291-8058-4420-b676-56c5d79c82ba")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -829,7 +1050,7 @@
 			(net 7 "CAR_FUSE5")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a27558c7-6c52-48d7-9f38-4d4172878233")
+			(uuid "aa768e2b-6717-4761-8ada-ebe0c434b711")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -839,7 +1060,7 @@
 			(remove_unused_layers no)
 			(net 7 "CAR_FUSE5")
 			(pintype "passive")
-			(uuid "d4e899a4-136d-4673-899a-18eb5de95c04")
+			(uuid "aa768e2b-6717-4761-8ada-ebe0c434b711")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -1949,7 +2170,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2001,6 +2222,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fedad903-c64b-4dcc-8e99-26da5c87b115")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "146bc370-182b-4bf3-9b95-0b22f63fb164")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb631284-7b35-4e9f-9e53-6ac6e3f50292")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c440dbea-b5fd-4a5e-aff1-c1e0ba269a5c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d640f17-aa13-4ed7-975b-b1cab6f7912e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/51162f13-61d0-4b58-925a-d4230a66b7a7")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -2014,7 +2300,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "5e6e8db1-aa25-48dc-9c50-a3d5c98ca1aa")
+			(uuid "fe9c5d54-43a1-4b51-9179-8e59c9da13c7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -2046,7 +2332,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e2382635-3e76-4974-b00e-7ae00b3fa27c")
+			(uuid "3abb83d4-b5a5-4203-aa7e-e65fd289a2d7")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -2056,7 +2342,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "bd930dee-9615-420f-ae33-d492ad16a3fd")
+			(uuid "3abb83d4-b5a5-4203-aa7e-e65fd289a2d7")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -2076,7 +2362,7 @@
 			(net 6 "CAR_FUSE4")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "15fea277-f696-44f1-9d56-a729271f0d91")
+			(uuid "847d160b-49fd-4390-951d-723d23fff941")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -2086,7 +2372,7 @@
 			(remove_unused_layers no)
 			(net 6 "CAR_FUSE4")
 			(pintype "passive")
-			(uuid "5c186640-b79a-4b1d-9a51-d0c1c942f2f6")
+			(uuid "847d160b-49fd-4390-951d-723d23fff941")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -2129,7 +2415,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2181,6 +2467,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7c5bbfc-bd36-44d5-86ae-2ca088dd2e5b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39517669-e9ba-4d52-8989-2459f2b5779c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11c16d8a-01b1-46bf-80db-1c2435bae883")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da4cd17b-0fd8-404d-a2a2-b618d653f0f5")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46ac6917-dc41-4b40-b83e-b51a3ec95547")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/e9e9e580-5994-4cef-8343-74efce760981")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -2194,7 +2545,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "a303f693-2ce9-4e25-b6c0-9071056cf5ea")
+			(uuid "9de4f8e3-89df-4386-9f30-108151cde386")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.5 0.75 0)
@@ -2226,7 +2577,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e67f87ae-e3de-4c03-96c2-7970f4fb1046")
+			(uuid "d264af90-ce21-43dc-a9e6-677aa19800ad")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -2236,7 +2587,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "b4d3ad97-71ea-4a71-9f16-7c47a03da16c")
+			(uuid "d264af90-ce21-43dc-a9e6-677aa19800ad")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -2256,7 +2607,7 @@
 			(net 8 "CAR_FUSE6")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fb63539c-2306-4527-9442-2324711a984c")
+			(uuid "dd1a366d-7621-4ba7-9799-fe798897a0c5")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -2266,7 +2617,7 @@
 			(remove_unused_layers no)
 			(net 8 "CAR_FUSE6")
 			(pintype "passive")
-			(uuid "84ff6505-8320-4ab1-bb89-7e16741645b1")
+			(uuid "dd1a366d-7621-4ba7-9799-fe798897a0c5")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -2309,7 +2660,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2361,6 +2712,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d983b7d7-d2a4-451c-b0dd-c8c1c5ffeabf")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34fcd5cf-14bf-4f62-8226-2865ca5c0a30")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b313e09-27cf-45f1-99d7-0d9c9c804af2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64af8aba-a568-4b9b-acf9-f10e8d978322")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a67134a-c455-4f93-8d8d-6917677526b4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/59087054-82b9-4d8c-9276-2d6bb2be9c72")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -2374,7 +2790,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "b40d4396-03f3-4923-8b60-4456223ca449")
+			(uuid "3a11747f-8e6f-463e-9e44-6c36b3980422")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.195 7.92 0)
@@ -2406,7 +2822,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "34cd0550-e3b9-4b86-bded-e3f20aeb2f9f")
+			(uuid "fd7d38c3-476f-4657-9616-437601c5b0ed")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -2416,7 +2832,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "d92707c2-2168-4f21-882a-c22ef57794ba")
+			(uuid "fd7d38c3-476f-4657-9616-437601c5b0ed")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -2436,7 +2852,7 @@
 			(net 13 "CAR_FUSE11")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d87597ac-3ef4-4370-b305-f3fa369ac334")
+			(uuid "93f42a80-fe88-42cf-b70a-3591c84e63c5")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -2446,7 +2862,7 @@
 			(remove_unused_layers no)
 			(net 13 "CAR_FUSE11")
 			(pintype "passive")
-			(uuid "5b68545b-2b7e-43c0-99e5-8af560391f79")
+			(uuid "93f42a80-fe88-42cf-b70a-3591c84e63c5")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -2489,7 +2905,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2541,6 +2957,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7527fda-994d-4fe4-bd94-e4afd96ebeb1")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80fae3f5-702f-4a3f-a239-3ad073104dcf")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e69c87f1-71f1-43a7-bc60-54104c5ed0de")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7baaa5ea-a85d-48b8-ae1e-c3ca32acb816")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d8e5daf-3d76-47a4-9116-0d95744c52b8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/3d9eef9d-d194-4504-a92c-20896b879f92")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -2554,7 +3035,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "7d2d885c-d1d5-4d06-a0ab-19b52307c6c9")
+			(uuid "98be4e7c-ace4-4045-93ad-26b225970197")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.5 0.75 0)
@@ -2586,7 +3067,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9e0b711e-972c-4b37-b364-211e6309623c")
+			(uuid "d81be687-62dc-4730-8558-224fb394ff03")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -2596,7 +3077,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "216e25ed-3573-4d71-96e0-b062ca94cd16")
+			(uuid "d81be687-62dc-4730-8558-224fb394ff03")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -2616,7 +3097,7 @@
 			(net 9 "CAR_FUSE7")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5330a5ac-08b1-488a-85cc-5acb1ccb99a1")
+			(uuid "c310d1e1-c497-4f2b-949f-31e12b82d24d")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -2626,7 +3107,7 @@
 			(remove_unused_layers no)
 			(net 9 "CAR_FUSE7")
 			(pintype "passive")
-			(uuid "72df8ff6-8474-436a-8c62-faf91021b991")
+			(uuid "c310d1e1-c497-4f2b-949f-31e12b82d24d")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -3720,7 +4201,7 @@
 				)
 			)
 		)
-		(property "Mouser Url" ""
+		(property "Mouser Url" "https://eu.mouser.com/ProductDetail/Wurth-Elektronik/74650073R?qs=lBTPRtX1sU%252B0nZldejGWIA%3D%3D&utm_id=9882661914&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=9882661914&gbraid=0AAAAADn_wf3yOTP-ILKck8vTKId-fiFZw&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6igTV2EftkfIGQCNIFK7KVHxOQfsFuXjnYI9DMZWMIg9WeSBPZjWFIaAotmEALw_wcB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3791,6 +4272,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e56c1f06-0ba6-4d4e-9f8a-3c94ac76d4b0")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://eu.mouser.com/ProductDetail/Wurth-Elektronik/74650073R?qs=lBTPRtX1sU%252B0nZldejGWIA%3D%3D&utm_id=9882661914&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=9882661914&gbraid=0AAAAADn_wf3yOTP-ILKck8vTKId-fiFZw&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6igTV2EftkfIGQCNIFK7KVHxOQfsFuXjnYI9DMZWMIg9WeSBPZjWFIaAotmEALw_wcB"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05034ce6-556b-4c63-b7d2-53185dfc75ce")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4185,6 +4679,58 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63156f77-b316-4fb0-a6a6-83ff2231a84c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e8e4c0f-e0f1-42c6-9d0e-d20e43156173")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/anm-3a/bezpieczniki-samochodowe-mini/optifuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cf73ee0-03a9-4474-8539-81342b231274")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/anm-3a/bezpieczniki-samochodowe-mini/optifuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68d59932-a9c6-4408-9e50-052c2b7add55")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/91e787cb-de04-4511-ae34-3c5d41efda45")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -4198,7 +4744,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "e19785f8-8d2f-4759-98ba-064d47bda442")
+			(uuid "4d30f132-a554-4d34-9b65-a3800c5e840b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -16.94 -1.02 0)
@@ -4230,7 +4776,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5156f6f4-df9a-41b5-a3f9-7b1b251007ae")
+			(uuid "b93bc4fc-4c15-4d8a-a321-8d7635acbcc5")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -4240,7 +4786,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "f720f050-40d5-446b-ab4b-b36848f88bdd")
+			(uuid "b93bc4fc-4c15-4d8a-a321-8d7635acbcc5")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -4260,7 +4806,7 @@
 			(net 12 "CAR_FUSE10")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "22fac133-2925-4e8e-bd06-b21ea9502c58")
+			(uuid "e1d50f19-e503-4b8d-a0d3-59b2a422372c")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -4270,7 +4816,7 @@
 			(remove_unused_layers no)
 			(net 12 "CAR_FUSE10")
 			(pintype "passive")
-			(uuid "b4a4c2d3-586f-447a-8d00-081defa5d8a5")
+			(uuid "e1d50f19-e503-4b8d-a0d3-59b2a422372c")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -4313,7 +4859,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4365,6 +4911,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4788390c-062a-442c-b688-dc3d49cccf1a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1319753d-4ce8-4916-99ae-34284a23e853")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5cdf75f-4565-4b1a-9b5e-0861c8e67a27")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a23064f8-6517-4026-afc4-b5a9461c9e53")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a611433f-fa43-447b-b6d4-ee6691746ee7")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/51ed40fc-8c8a-42b7-a907-d11ba02a83c0")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -4378,7 +4989,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "fca99d1a-8c2a-4161-b46e-b15374de6d60")
+			(uuid "13bf2dc8-739b-4cbc-8b19-0df91b312c83")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -13.225 0.47 0)
@@ -4410,7 +5021,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "6dab4392-ed57-4f19-b6c1-e7859d567afd")
+			(uuid "81b706c2-5117-4224-90a2-03d144591951")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -4420,7 +5031,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "9aae057e-a8c3-4b34-b00a-a563576afa80")
+			(uuid "81b706c2-5117-4224-90a2-03d144591951")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -4440,7 +5051,7 @@
 			(net 17 "CAR_FUSE15")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "b4710767-2885-44b0-9628-eceed6dca83a")
+			(uuid "569acdbe-e1fd-41f5-a59f-0e658071a6b2")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -4450,7 +5061,7 @@
 			(remove_unused_layers no)
 			(net 17 "CAR_FUSE15")
 			(pintype "passive")
-			(uuid "7f8e1985-0855-42f1-9e80-505e7e19ddc0")
+			(uuid "569acdbe-e1fd-41f5-a59f-0e658071a6b2")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -4665,7 +5276,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4717,6 +5328,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b046ad71-e5fd-461b-ba89-7f59959b2139")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2bfe62be-a71c-4630-abb9-b196a1d5d7fe")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d998725c-ac84-4cac-b8cc-db02c1d0efd2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57fa8310-e6c1-422e-9723-b702a220c8d9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38cc1e7b-e7d3-41cf-8d3a-5d29d85fa32d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/1644a5ad-2e5f-49ab-9617-a7f277cea5ff")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -4730,7 +5406,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "3d8fb353-09a3-47a7-bf8f-624957a4f5ef")
+			(uuid "2994d86d-8be5-4120-ae6a-94acf27583b3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -4762,7 +5438,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e0a18c28-7735-4f58-ac49-529be83dcd3c")
+			(uuid "a317ff07-56d2-40d8-83b5-e438313503cc")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -4772,7 +5448,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "babb5d38-f000-404e-83aa-a7be6fdfd809")
+			(uuid "a317ff07-56d2-40d8-83b5-e438313503cc")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -4792,7 +5468,7 @@
 			(net 5 "CAR_FUSE3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df0b5336-d2f7-4e9b-bcd1-a35ec19b2fac")
+			(uuid "e3883bbc-eda0-4103-b88f-cd5be348f849")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -4802,7 +5478,7 @@
 			(remove_unused_layers no)
 			(net 5 "CAR_FUSE3")
 			(pintype "passive")
-			(uuid "73a4e90d-ac0e-4005-99b5-ec3061ba9f26")
+			(uuid "e3883bbc-eda0-4103-b88f-cd5be348f849")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -5017,7 +5693,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5069,6 +5745,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a623cd6d-af26-4ae8-acd0-6ccf700b27d6")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08a89b68-2103-4126-99cb-ebbbbea89411")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "670361b2-c97d-40ee-a2f6-46d7fe2b8157")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "662192c4-220b-420c-b1a6-344d1df09e18")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce1ba82f-e5ba-4532-8a11-fac492b5f880")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/4a88d05e-9558-4ffa-a6fa-e5c2b33ea01c")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -5082,7 +5823,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "060b1459-0853-4567-97f0-61ff9fbc7a1d")
+			(uuid "a70da12f-8f0d-4392-b4c6-3e564678e0b3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -5114,7 +5855,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "739ca266-928a-4b25-a318-61cf55e88c89")
+			(uuid "78d8e045-2e23-4e5f-a4be-e08724719f65")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -5124,7 +5865,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "456adcf1-b9e8-429b-8828-ba225f92414f")
+			(uuid "78d8e045-2e23-4e5f-a4be-e08724719f65")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -5144,7 +5885,7 @@
 			(net 2 "CAR_FUSE1")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bb5dead1-5325-40c4-847f-71750931747d")
+			(uuid "9e5aa093-59bb-4a97-be7a-85967ce58437")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -5154,7 +5895,7 @@
 			(remove_unused_layers no)
 			(net 2 "CAR_FUSE1")
 			(pintype "passive")
-			(uuid "63190040-48c6-4da2-aaab-2be53160eeb4")
+			(uuid "9e5aa093-59bb-4a97-be7a-85967ce58437")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -5197,7 +5938,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5249,6 +5990,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6afd694b-9e01-4b75-b877-ee3ca62b0352")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5080f295-69f4-4877-802e-cf4f15018443")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7ab1f04-25d3-4f44-b10d-3b541b428421")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43e1aa2b-d402-4bae-bd1a-ac07f747d635")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74f147a8-654e-4318-8e0c-f7e5610cbca0")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/d4d8bc7a-1b52-4f5b-b14b-d34574e37e8d")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -5262,7 +6068,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "eaf5f057-cd4a-4b8f-9a05-f25b792bc94d")
+			(uuid "29216945-ef5e-4dea-aa5a-313b97f78c60")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -18.77 -0.27 0)
@@ -5294,7 +6100,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "93edabad-3886-4a8c-9921-c6adf2f100bb")
+			(uuid "b1b2b456-87bf-4a41-873e-10b31df61cbb")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -5304,7 +6110,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "150e22ad-07ac-4138-abb9-9c98efa42800")
+			(uuid "b1b2b456-87bf-4a41-873e-10b31df61cbb")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -5324,7 +6130,7 @@
 			(net 15 "CAR_FUSE13")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aca896c8-5cf2-427b-9dc0-72238c626fe1")
+			(uuid "d68ec515-7739-40fb-bf3a-5525d08dfcd5")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -5334,7 +6140,7 @@
 			(remove_unused_layers no)
 			(net 15 "CAR_FUSE13")
 			(pintype "passive")
-			(uuid "74c2d364-27ad-48a3-be28-be86bfcdc349")
+			(uuid "d68ec515-7739-40fb-bf3a-5525d08dfcd5")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -5377,7 +6183,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5429,6 +6235,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c4c83b2-47d6-4bc1-a5a8-565720a3d7a8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d0c2044-9891-4dc4-a653-5bb9677a26fb")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3b5b93b-ff96-40f8-a5c1-1e8c5378b74c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2e7129f-207e-401f-8286-5e942ce0105f")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a72183a-2207-40ae-85a7-deaa58a8d2d5")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/4c3dd1fa-1e72-478c-9773-0d1037c355d1")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -5442,7 +6313,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c647d267-e473-4b06-9270-d3b190928649")
+			(uuid "e6f85920-86e0-464f-9a3d-a3f53e4acf54")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -5474,7 +6345,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c10ff9db-d4ca-48b5-89d2-4820d0504b39")
+			(uuid "b4b27da0-3a01-4837-a2fd-bb6cec79b6ed")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -5484,7 +6355,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "b4cfdf51-d255-470a-8d56-d33236e81477")
+			(uuid "b4b27da0-3a01-4837-a2fd-bb6cec79b6ed")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -5504,7 +6375,7 @@
 			(net 10 "CAR_FUSE8")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "065d87f7-70ae-46fc-91e4-9d6d86593b9c")
+			(uuid "5f3cac30-ac7e-45e5-8e57-b9c2ded50ab1")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -5514,7 +6385,7 @@
 			(remove_unused_layers no)
 			(net 10 "CAR_FUSE8")
 			(pintype "passive")
-			(uuid "3b281ce6-53ab-49f9-a706-a7990856af45")
+			(uuid "5f3cac30-ac7e-45e5-8e57-b9c2ded50ab1")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -5608,6 +6479,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ad27753-5ed7-41d0-9680-9a6cb619ddf9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba73fd2a-9e2c-48e9-9322-f33204dde873")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad4cbbca-ea4a-40a0-9aca-3ac553cd29db")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cba85fd-4afe-4c79-b89e-1b92a86ea313")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bf2fadf-514d-4914-b6ef-33c4307c6279")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/fab6393c-91b4-4f02-a7bc-c9f9c7800d19")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -5621,7 +6557,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "dbbea721-ad30-4e68-9a2d-f83c1c513d0c")
+			(uuid "ecc8d22c-7bde-4ca1-b309-c3c14c130fd7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.225 0.75 0)
@@ -5653,7 +6589,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "b9a4544f-676b-421e-8b84-741ec8b100e6")
+			(uuid "145245ae-e926-4ba6-90a4-0a379d2aefde")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -5663,7 +6599,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "55ecc737-d264-413a-a8cb-e0eb787bd8dd")
+			(uuid "145245ae-e926-4ba6-90a4-0a379d2aefde")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -5683,7 +6619,7 @@
 			(net 18 "CAR_FUSE16")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e67d7b64-ffed-4023-bef3-05daa2dbdc4d")
+			(uuid "d767425c-c311-496b-b6c2-9833dc7246fe")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -5693,7 +6629,7 @@
 			(remove_unused_layers no)
 			(net 18 "CAR_FUSE16")
 			(pintype "passive")
-			(uuid "e804ae3b-51fc-4ecd-b9a9-5f7b6e27f3ae")
+			(uuid "d767425c-c311-496b-b6c2-9833dc7246fe")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"
@@ -5736,7 +6672,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "2A"
 			(at 0.23 4.47 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5801,6 +6737,71 @@
 				)
 			)
 		)
+		(property "Mouser Url" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da765c0f-73d9-4dc0-a266-f3da8c6f527a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d0f8eeb-68cb-4006-a69c-8dea058ffbb7")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser " ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ffb1538-fc2b-403c-a853-db4ac79d8c59")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "MANUFACTURER" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe050a60-a9cc-4fc6-9cc4-14d0b48b9512")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74a8fe51-54dc-4499-8933-1a93e20f37eb")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.1)
+				)
+			)
+		)
 		(path "/df95b764-ff3a-4b22-bf46-c346d160232d")
 		(sheetname "/")
 		(sheetfile "PUTM_EV_PDMv2_PLAN_B_2024.kicad_sch")
@@ -5814,7 +6815,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "5b5a5933-c55c-446e-b674-bd5793f624f1")
+			(uuid "87a0ced0-4a11-4b7a-a6b1-11eb662af678")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.25 0.75 0)
@@ -5846,7 +6847,7 @@
 			(net 3 "+BATT")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "0b5c5b0d-a084-4ae3-9090-3e054a1f898a")
+			(uuid "99ecf8c6-25a8-4c6f-9f79-38a0596f8395")
 		)
 		(pad "1" thru_hole circle
 			(at -2.31 -0.09)
@@ -5856,7 +6857,7 @@
 			(remove_unused_layers no)
 			(net 3 "+BATT")
 			(pintype "passive")
-			(uuid "da0ee647-d6ac-46fb-b366-7e2c0767dc31")
+			(uuid "99ecf8c6-25a8-4c6f-9f79-38a0596f8395")
 		)
 		(pad "2" thru_hole circle
 			(at 2.15 -0.02)
@@ -5876,7 +6877,7 @@
 			(net 4 "CAR_FUSE2")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "3dcc0908-8489-4259-841a-3cd7a2c22a20")
+			(uuid "26e7f7bb-f6b4-49f2-8ce5-9da035afd28c")
 		)
 		(pad "2" thru_hole circle
 			(at 5.81 -0.02)
@@ -5886,7 +6887,7 @@
 			(remove_unused_layers no)
 			(net 4 "CAR_FUSE2")
 			(pintype "passive")
-			(uuid "28888797-f9b4-423d-bf6d-b2db39246ac1")
+			(uuid "26e7f7bb-f6b4-49f2-8ce5-9da035afd28c")
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Administrator/Desktop/inventor_projekty/CAT_NO_3544.stp"

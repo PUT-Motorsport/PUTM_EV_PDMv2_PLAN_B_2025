@@ -1,0 +1,8 @@
+Id;Oznaczenie;Footprint;Liczba;Oznaczenie;Dostawca i numer artyku?V
+1;TSAL/HV_1;CAR_FUSE_CLIPS_MINI_3544;1;4A;https://www.tme.eu/pl/details/0297004.wxnv/bezpieczniki-samochodowe-mini/littelfuse/
+2;"BRAKE/IR/AIR_1,REARBOX/DIAGPORT/BRAKE_L_1";CAR_FUSE_CLIPS_MINI_3544;2;3A;https://www.tme.eu/pl/details/anm-3a/bezpieczniki-samochodowe-mini/optifuse/
+3;"INVERTER_2,FAN_1,PC_4,PUMP_1,INVERTER_1,PUMP_2,SDC/ASMS_1,PC_3,FBOX_1,FAN_2,PC_2";CAR_FUSE_CLIPS_MINI_3544;11;2A;https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/
+4;"J5,J8";SAMTEC_UMPT-08-01-L-RA-WT-P-TR;2;UMPT-08-01-L-RA-WT-P-TR;
+5;J2;74650073R;1;74650073R;https://eu.mouser.com/ProductDetail/Wurth-Elektronik/74650073R?qs=lBTPRtX1sU%252B0nZldejGWIA%3D%3D&utm_id=9882661914&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=9882661914&gbraid=0AAAAADn_wf3yOTP-ILKck8vTKId-fiFZw&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6igTV2EftkfIGQCNIFK7KVHxOQfsFuXjnYI9DMZWMIg9WeSBPZjWFIaAotmEALw_wcB
+6;PC_1;CAR_FUSE_CLIPS_MINI_3544;1;2A;https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/
+7;DASH_1;CAR_FUSE_CLIPS_MINI_3544;1;2A;https://www.tme.eu/pl/details/0297002.wxnv/bezpieczniki-samochodowe-mini/littelfuse/
